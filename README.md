@@ -70,7 +70,7 @@ This project is ideal for:
 
 ---
 
-🌍 API Integration
+## 🌍 API Integration
 
 This project uses:
 
@@ -84,7 +84,7 @@ OpenWeatherMap Air Pollution API – for AQI and UV index
 
 ---
 
-🎨 UI/UX Highlights
+## 🎨 UI/UX Highlights
 
 Clean, minimal, and modern weather dashboard
 
@@ -98,7 +98,7 @@ Fully mobile-first responsive layout
 
 ---
 
-🚧 Future Roadmap
+## 🚧 Future Roadmap
 
 Planned improvements:
 
@@ -114,7 +114,7 @@ Planned improvements:
 
 ---
 
-📧 Contact
+## 📧 Contact
 
 👨‍💻 Developed by: Vivek Raja
 📮 Email: rajavivek773@gmail.com
