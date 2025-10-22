@@ -80,7 +80,7 @@ OpenWeatherMap Forecast API – for 36-hour forecast
 
 OpenWeatherMap Air Pollution API – for AQI and UV index
 
-📘 Official Docs: https://openweathermap.org/api
+📘 Official Docs: https://rain-or-shine-tau.vercel.app/
 
 ---
 
