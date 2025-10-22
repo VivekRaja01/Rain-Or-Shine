@@ -117,7 +117,9 @@ Planned improvements:
 ## 📧 Contact
 
 👨‍💻 Developed by: Vivek Raja
+
 📮 Email: rajavivek773@gmail.com
+
 🌐 GitHub: VivekRaja01
 
 💖 Support
