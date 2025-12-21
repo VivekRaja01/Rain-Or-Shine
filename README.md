@@ -1,4 +1,4 @@
-# 🌦️ Rain Or Shine - Real-Time Weather Forecast App 
+# 🌦️ Rain Or Shine - Real-Time Weather Forecast App
 
 🌦️ **Rain Or Shine** is a modern, fully responsive weather application built with **React**, **Tailwind CSS**, **Recharts**, and **Chart.js**.
 ☀️ Get real-time weather updates, air quality, UV index, and a 36-hour forecast with stunning data visualizations and dynamic weather-based backgrounds.
